@@ -1,4 +1,4 @@
-module github.com/bytedance/mockey
+module github.com/wexyx/mockey
 
 go 1.13
 
